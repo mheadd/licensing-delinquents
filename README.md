@@ -10,9 +10,9 @@ At the time of this analysis (December, 2013) there were 9,251 Permits or Licens
 
 ### Why Release This Data?
 
-Though the analysis that produced this data was still in its infancy, the preliminary findings clearly demonstrate the need for better data integration in the City of Philadelphia. An open strategy focused on developing simple to use, well documented APIs for external users will produce an environment where data sharing between city departments (like Revenue and L&I) can take place easily and efficiently.
+Though the analysis that produced this data was still in its infancy, the preliminary findings clearly demonstrate the need for better data integration in the City of Philadelphia. An open data strategy focused on developing simple to use, well documented APIs for external users will produce an environment where data sharing between city departments (like Revenue and L&I) can take place more easily and more efficiently.
 
-Hopefully, the data included in this repo will help illuminate the costs of not pursuing such a strategy.
+Hopefully, the data produced by this analysis will help illuminate the costs of not pursuing such an open data strategy.
 
 ### Caveats
 
