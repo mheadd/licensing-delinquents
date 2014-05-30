@@ -8,13 +8,13 @@ The <code>addresses</code> file is unique by Address with collectible tax balanc
 
 At the time of this analysis (December, 2013) there were 9,251 Permits or Licenses issued to properties with outstanding tax balances, and 5,969 properties that had been issued permits or licenses that were tax delinquent at the time of issuance, and were still delinquent at the time of the analysis for a total of over $48M collectible.
 
-## Why Release This Data?
+### Why Release This Data?
 
 Though the analysis that produced this data was still in its infancy, the preliminary findings clearly demonstrate the need for better data integration in the City of Philadelphia. An open strategy focused on developing simple to use, well documented APIs for external users will produce an environment where data sharing between city departments (like Revenue and L&I) can take place easily and efficiently.
 
 Hopefully, the data included in this repo will help illuminate the costs of not pursuing such a strategy.
 
-## Caveats
+### Caveats
 
 This analysis was conducted several months ago, so the outstanding tax balances included in the files in this repo may have changed.
 
